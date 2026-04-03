@@ -28,3 +28,6 @@ streamlit run app.py
 
 ## 👩‍💻 Author
 Subhashini
+
+## 🌐 Live Demo
+https://your-app-link.streamlit.app
